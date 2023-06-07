@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -R dir1.html dir2.html
+cp -un *.html ../
